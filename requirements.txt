@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+anthropic
+pydantic
+sqlalchemy[asyncio]
+asyncpg
+aiosqlite
+httpx
+redis
+python-dotenv
